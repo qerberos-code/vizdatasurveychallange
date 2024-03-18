@@ -1,6 +1,6 @@
 # vizdatasurveychallange
 This repo is for viz data industry survey challenge 2023 in 2024
-
+The Challange page: https://www.datavisualizationsociety.org/challenges
 THE CHALLANGE TIMELINE
 Launch: February 16, 2024
 Close: March 31, 2024
