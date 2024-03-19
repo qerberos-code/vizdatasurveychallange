@@ -1,6 +1,9 @@
 # vizdatasurveychallange
 This repo is for viz data industry survey challenge 2023 in 2024
 The Challange page: https://www.datavisualizationsociety.org/challenges
+
+Explaination
+
 THE CHALLANGE TIMELINE
 Launch: February 16, 2024
 Close: March 31, 2024
@@ -60,19 +63,34 @@ Section 4 (Charts and Tools):
 
 Scrollytelling
 --
+# I am very interested in this question: How often do you use each of the following technologies for data visualization?
 
-Figma, Flourish, highcharts, illustrator, leaflet, looker, Observable, P5/Processing, Svelte, Vega, Vue, WebGL  
+I don't know any of those tools: Figma (it's wireframe/ mock UI), Flourish (a website with a lot of data (graph) templates), highcharts, leaflet (interactive with Javascript), looker, Observable, P5/Processing, Svelte (similar to react), Vega, Vue, WebGL  
 
-# I am very interested in this question: Name up to three tools you most enjoy using for data visualization.
+(you suppose to use some of the tools (like the add-on) together.)  
+
+Thoughts:  We could talk about the trend that evolved over time.
+
+# I am very interested in this question: Name up to three tools you "most enjoy" using for data visualization.
+
+Thoughts:  Most enjoyable is different from the tools being used. 
 
 Section 5 (Challanges and Changes):
 
 # I am very interested in this question: How much does each of the following challenges impact your data visualization practice?
 
-#  I am very interested in this question: How much does each of the following challenges impact your data visualization practice?
+#  I am very interested in this question: What current or recent barriers have you faced in getting into data visualization professionally?
 
-#  I am very interested in this question:  What do you think people you work with just don’t get about the data visualization work that you do?
+#  I am very interested in this question: What do you think people you work with just don’t get about the data visualization work that you do?
+
+Section 6:
+
+We can consider section 5: the tool, and section 2 the salary 
+
+#Action item:
+
+#creating a mock up website ( the goal is to show the trends)  Sabari
+#looking into data in section 5: the tool, and section 2 the salary from 2020 to 2023  Angus and Truc
 
 
-Section 6: 
-
+Day 11:
