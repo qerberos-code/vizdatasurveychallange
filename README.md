@@ -28,11 +28,11 @@ Based on where you live, how does your level of pay compare to other people doin
 If the previous year surveys were the same as last year ’23, we could show the trend of moving from  remote to hybrid.  
 Comparison with other industries and explain.
 
-Section 3:
+Section 3A (freelancer):
 
 Position and primary focus, secondary or etc…
 
-We can do something pretty cool -   they divide section to freelancer, and employees
+#We can do something pretty cool -   they divide section to freelancer, and employees
 
 What is the difference between the tools and the scope.
 
@@ -47,3 +47,32 @@ Each of us are goign to take a look the previous year surveys and go through the
 The survey questions: https://drive.google.com/file/d/1vuo1wFd-kRs3hcSyJobDUbbXJBM2s1np/view
 
 Day 12:
+
+Section 3B (Your work for your employer): 
+
+Section 3C (Your work as an academic or teacher):
+
+Section 3D (Your work as a student):
+
+Section 3E (Your persona data visualization):
+
+Section 4 (Charts and Tools):
+
+Scrollytelling
+--
+
+Figma, Flourish, highcharts, illustrator, leaflet, looker, Observable, P5/Processing, Svelte, Vega, Vue, WebGL  
+
+# I am very interested in this question: Name up to three tools you most enjoy using for data visualization.
+
+Section 5 (Challanges and Changes):
+
+# I am very interested in this question: How much does each of the following challenges impact your data visualization practice?
+
+#  I am very interested in this question: How much does each of the following challenges impact your data visualization practice?
+
+#  I am very interested in this question:  What do you think people you work with just don’t get about the data visualization work that you do?
+
+
+Section 6: 
+
