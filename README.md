@@ -108,11 +108,12 @@ graph one: number of distinct tools are being used.
 <img width="1573" alt="Screenshot 2024-03-21 at 12 56 01 PM" src="https://github.com/qerberos-code/vizdatasurveychallange/assets/19965139/15f7f1fd-fee7-4db6-a1e2-894ff0385246">
 
 graph two: within that population,what are the occupations such as academic, employee, freelancer and etc.
-<img width="1578" alt="Screenshot 2024-03-21 at 12 57 01 PM" src="https://github.com/qerberos-code/vizdatasurveychallange/assets/19965139/f3fd1154-04d9-453b-987c-f2659bbf29da">
+<img width="1572" alt="Screenshot 2024-03-21 at 1 00 02 PM" src="https://github.com/qerberos-code/vizdatasurveychallange/assets/19965139/ddae6799-b228-4606-807b-c252e0739cce">
 
 graph three: within the population, the year of experience
-<img width="1570" alt="Screenshot 2024-03-21 at 12 57 33 PM" src="https://github.com/qerberos-code/vizdatasurveychallange/assets/19965139/f0f5fb16-ae91-4ff5-b741-72e4f770593d">
+<img width="1576" alt="Screenshot 2024-03-21 at 1 02 03 PM" src="https://github.com/qerberos-code/vizdatasurveychallange/assets/19965139/7e1932e7-0382-4513-8154-f9078f43219e">
 
-
+% Percentage of total within the population
+<img width="1578" alt="Screenshot 2024-03-21 at 1 00 32 PM" src="https://github.com/qerberos-code/vizdatasurveychallange/assets/19965139/de62900e-dbff-46a9-8019-dcbb83c635ce">
 
 
