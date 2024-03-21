@@ -92,5 +92,22 @@ We can consider section 5: the tool, and section 2 the salary
 #creating a mock up website ( the goal is to show the trends)  Sabari
 #looking into data in section 5: the tool, and section 2 the salary from 2020 to 2023  Angus and Truc
 
+Day 11: (break)
 
-Day 11:
+
+Day 10:
+
+Truce showed us the number of distinct tools being used.
+
+We came up an idea to develop a story of speed networking strategies to enter data visualization (based on the tool) 
+We all have limited time at a data visulation social event.  With provided data, we have analyzed the data dn created a data visualization to for very simple approach to identify the right person to talk to at a meetup or social event.
+The profile: The targeted person is an employee of a company with 7 - 10 years of experience. The person uses 7 visualization tools. Here are the tools: a, b c, and d. 
+With this profile, you can easily identify the targeted person with in short amount of time at a data visualization meetup event.
+
+graph one: number of distinct tools are being used.
+graph two: within that population,what are the occupations such as academic, employee, freelancer and etc.
+graph three: within the population, the year of experience
+
+
+
+
