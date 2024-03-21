@@ -97,7 +97,7 @@ Day 11: (break)
 
 Day 10:
 
-Truce showed us the number of distinct tools being used.
+Truc showed us the number of distinct tools being used.
 
 We came up an idea to develop a story of speed networking strategies to enter data visualization (based on the tool) 
 We all have limited time at a data visulation social event.  With provided data, we have analyzed the data dn created a data visualization to for very simple approach to identify the right person to talk to at a meetup or social event.
@@ -105,8 +105,13 @@ The profile: The targeted person is an employee of a company with 7 - 10 years o
 With this profile, you can easily identify the targeted person with in short amount of time at a data visualization meetup event.
 
 graph one: number of distinct tools are being used.
+<img width="1573" alt="Screenshot 2024-03-21 at 12 56 01 PM" src="https://github.com/qerberos-code/vizdatasurveychallange/assets/19965139/15f7f1fd-fee7-4db6-a1e2-894ff0385246">
+
 graph two: within that population,what are the occupations such as academic, employee, freelancer and etc.
+<img width="1578" alt="Screenshot 2024-03-21 at 12 57 01 PM" src="https://github.com/qerberos-code/vizdatasurveychallange/assets/19965139/f3fd1154-04d9-453b-987c-f2659bbf29da">
+
 graph three: within the population, the year of experience
+<img width="1570" alt="Screenshot 2024-03-21 at 12 57 33 PM" src="https://github.com/qerberos-code/vizdatasurveychallange/assets/19965139/f0f5fb16-ae91-4ff5-b741-72e4f770593d">
 
 
 
