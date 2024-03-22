@@ -99,10 +99,23 @@ Day 10:
 
 Truc showed us the number of distinct tools being used.
 
-We came up an idea to develop a story of speed networking strategies to enter data visualization (based on the tool) 
-We all have limited time at a data visulation social event.  With provided data, we have analyzed the data dn created a data visualization to for very simple approach to identify the right person to talk to at a meetup or social event.
-The profile: The targeted person is an employee of a company with 7 - 10 years of experience. The person uses 7 visualization tools. Here are the tools: a, b c, and d. 
-With this profile, you can easily identify the targeted person with in short amount of time at a data visualization meetup event.
+We came up an idea to develop a story of speed networking strategies to enter data visualization (based on the tool; dataset 4). We all have limited time at a data visulation social event.  
+
+With provided data, we have analyzed the data ( set 4) dn created a data visualization to for very simple approach to identify the right person to talk to at a meetup or social event.
+
+Based on our experience, there are huge interest to enter data visualization field. Without knowing the right people and the tool to use, it can be challanged to penertate the field. Our goal is to quickly identify the right person(s) to engage at a data visualization social event (Dataviz is one of them of course) with limited time he/she has.
+
+The Methodogly: 
+Q1. How often do you use the tool?
+Q2. The top 3 tools you most enjoy using.
+
+We have identified the most of people use 7 tools.
+The most data vizulation role is employee (of a company) among other roles such as academic, freelancer, hobbist or student.  Within this group, most of them have 7 - 10 years of experience. 
+
+Here are the most used top 3 preferred tools: a, b and c. ( we are thinking using tree map.)
+
+With this profile, you can easily identify the targeted person with in short amount of time to strike a conversation at a data visualization meetup/social event.
+
 
 graph one: number of distinct tools are being used.
 <img width="1573" alt="Screenshot 2024-03-21 at 12 56 01 PM" src="https://github.com/qerberos-code/vizdatasurveychallange/assets/19965139/15f7f1fd-fee7-4db6-a1e2-894ff0385246">
@@ -115,5 +128,10 @@ graph three: within the population, the year of experience
 
 % Percentage of total within the population
 <img width="1578" alt="Screenshot 2024-03-21 at 1 00 32 PM" src="https://github.com/qerberos-code/vizdatasurveychallange/assets/19965139/de62900e-dbff-46a9-8019-dcbb83c635ce">
+
+Day 9:
+
+we fine tuned our story, started to finalize our graph choice and worked on the website.
+<img width="1531" alt="Screenshot 2024-03-22 at 12 32 19 PM" src="https://github.com/qerberos-code/vizdatasurveychallange/assets/158055549/5ed537b2-9289-4fb5-b097-dc038bc68554">
 
 
