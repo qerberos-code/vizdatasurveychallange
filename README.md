@@ -136,4 +136,7 @@ we fine tuned our story, started to finalize our graph choice and worked on the 
 
 Day 8: 
 Truc cleaned the ToolsLiking_Top3 column.
-Truc uploaded the files: 
+Truc uploaded the following clean datasets: 
+<img width="918" alt="Screenshot 2024-03-23 at 12 49 22 PM" src="https://github.com/qerberos-code/vizdatasurveychallange/assets/19965139/0bb80139-4cb2-4cd1-b20d-81d9fe63a272">
+Here is the Top 20 ToolsLiking_Top3Answer treemap:
+<img width="1000" alt="Screenshot 2024-03-23 at 12 35 40 PM" src="https://github.com/qerberos-code/vizdatasurveychallange/assets/19965139/ead74c52-0a6b-4e24-a27d-edeaedd3dfca">
