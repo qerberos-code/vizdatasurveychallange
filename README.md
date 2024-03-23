@@ -134,4 +134,6 @@ Day 9:
 we fine tuned our story, started to finalize our graph choice and worked on the website.
 <img width="1531" alt="Screenshot 2024-03-22 at 12 32 19 PM" src="https://github.com/qerberos-code/vizdatasurveychallange/assets/158055549/5ed537b2-9289-4fb5-b097-dc038bc68554">
 
-
+Day 8: 
+Truc cleaned the ToolsLiking_Top3 column.
+Truc uploaded the files: 
