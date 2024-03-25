@@ -141,3 +141,7 @@ Truc uploaded the following clean datasets:
 
 Here is the Top 20 ToolsLiking_Top3Answer treemap:
 <img width="1000" alt="Screenshot 2024-03-23 at 12 35 40 PM" src="https://github.com/qerberos-code/vizdatasurveychallange/assets/19965139/ead74c52-0a6b-4e24-a27d-edeaedd3dfca">
+
+Day 7:
+Truc updated the dashboard
+https://prod-uk-a.online.tableau.com/#/site/inlays00crisps4ba6617603/workbooks/801128/views
