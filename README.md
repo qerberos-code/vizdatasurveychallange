@@ -145,3 +145,8 @@ Here is the Top 20 ToolsLiking_Top3Answer treemap:
 Day 7:
 Truc updated the dashboard
 https://prod-uk-a.online.tableau.com/#/site/inlays00crisps4ba6617603/workbooks/801128/views
+
+Day 6:
+Sabari showcased Flourish for data viz.
+Angus granted website access. The team can start to embedded graphs on the website.
+The team will go through different types of graph to see whether it's a good fit to tell the story.
