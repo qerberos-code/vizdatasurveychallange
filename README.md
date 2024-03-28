@@ -146,7 +146,10 @@ Day 7:
 Truc updated the dashboard
 https://prod-uk-a.online.tableau.com/#/site/inlays00crisps4ba6617603/workbooks/801128/views
 
+<img width="1531" alt="Screenshot 2024-03-22 at 12 32 19 PM" src="https://github.com/qerberos-code/vizdatasurveychallange/assets/158055549/26b6ae5e-4093-4eed-9f77-edbe335e732c">
+
 Day 6:
 Sabari showcased Flourish for data viz.
 Angus granted website access. The team can start to embedded graphs on the website.
 The team will go through different types of graph to see whether it's a good fit to tell the story.
+
