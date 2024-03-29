@@ -174,15 +174,14 @@ From this, we've pinpointed the top three tools preferred by these professionals
 
 Sabri has the image.
 
-
 #By asking just three simple questions about tool usage and preferences we've designed, you can quickly identify who you should be talking to.
 
+What do you like to use? 
 What's your role? ( we need to show that employee is the target; sabri's graph)
 What's your years of experience? (7 - 10 years of experience; Truc's graph)
 What are the top 3 tools you most enjoy (?) using or often use at work?  (Show tableau; sankey)
 
-![image](https://github.com/qerberos-code/vizdatasurveychallange/assets/158055549/d2b753ef-d116-4392-91ce-fb3dc1640139)
-
-
+Link: https://public.flourish.studio/visualisation/17354145/
+Embed code: <div class="flourish-embed flourish-slope" data-src="visualisation/17354145"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Our tool isn't just a theoretical concept; it's a practical solution designed for real-world networking. In the fast-paced world of data visualization, where knowing the right tools and the right people makes all the difference, our approach is your shortcut to making meaningful connections swiftly and efficiently. Ready to revolutionize the way you network at data visualization events?
