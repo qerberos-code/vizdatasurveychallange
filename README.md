@@ -173,8 +173,10 @@ Embed Code: <script type='module' src='https://prod-uk-a.online.tableau.com/java
 We have identified the most of people use 7 tools.
 
 From this, we've pinpointed the top three tools preferred by these professionals in the industries. 
+[image](https://github.com/qerberos-code/vizdatasurveychallange/assets/158055549/60611a7c-e407-4e63-84bb-24965d3ddb5c)
 
-Sabri has the image.
+v
+(Sabri has the image.)
 
 #By asking just three simple questions about tool usage and preferences we've designed, you can quickly identify who you should be talking to.
 
