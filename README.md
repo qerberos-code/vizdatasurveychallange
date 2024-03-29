@@ -153,3 +153,36 @@ Sabari showcased Flourish for data viz.
 Angus granted website access. The team can start to embedded graphs on the website.
 The team will go through different types of graph to see whether it's a good fit to tell the story.
 
+Day 3:
+
+story: Imagine you are interested in entering data visualization field, but don't know where to start. After months of research, you finally decide to take a leap of faith to go to a data visulization social event. You are overwhelmed stepping into a room full of potential connections at the event, each may potentially lead to an opportunity. Each has their unique expertise and preferences in tools. However,the challenge is you only have 15 minutes for networking to find the right person to talk to,espcially someone who can open doors for you to opportunities. How can you quickly idenifity the right person? 
+
+That's where our innovative approach comes into play. We have made it very simple for you by analyzing the data which guide you to your ideal conversation partner at any data visualization meetup or social event.
+
+
+![image](https://github.com/qerberos-code/vizdatasurveychallange/assets/158055549/e2a04ff7-19f2-4864-87c2-c592a6a3448c)
+
+Note under the figure: the data has been transformed and simply for the general audience.
+
+
+With an extensive analysis of the dataset, the querberos team discovered that most professionals predominantly use seven key tools and generally hold certain roles within companies, boasting 7-10 years of experience. 
+
+![image](https://github.com/qerberos-code/vizdatasurveychallange/assets/158055549/7afca1aa-aa1f-41ee-99b2-9878d37b07c0)
+We have identified the most of people use 7 tools.
+
+From this, we've pinpointed the top three tools preferred by these professionals in the industries. 
+
+Sabri has the image.
+
+
+#By asking just three simple questions about tool usage and preferences we've designed, you can quickly identify who you should be talking to.
+
+What's your role? ( we need to show that employee is the target; sabri's graph)
+What's your years of experience? (7 - 10 years of experience; Truc's graph)
+What are the top 3 tools you most enjoy (?) using or often use at work?  (Show tableau; sankey)
+
+![image](https://github.com/qerberos-code/vizdatasurveychallange/assets/158055549/d2b753ef-d116-4392-91ce-fb3dc1640139)
+
+
+
+Our tool isn't just a theoretical concept; it's a practical solution designed for real-world networking. In the fast-paced world of data visualization, where knowing the right tools and the right people makes all the difference, our approach is your shortcut to making meaningful connections swiftly and efficiently. Ready to revolutionize the way you network at data visualization events?
