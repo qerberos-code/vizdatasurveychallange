@@ -167,7 +167,9 @@ Note under the figure: the data has been transformed and simply for the general 
 
 With an extensive analysis of the dataset, the querberos team discovered that most professionals predominantly use seven key tools and generally hold certain roles within companies, boasting 7-10 years of experience. 
 
-![image](https://github.com/qerberos-code/vizdatasurveychallange/assets/158055549/7afca1aa-aa1f-41ee-99b2-9878d37b07c0)
+Link: https://prod-uk-a.online.tableau.com/t/inlays00crisps4ba6617603/views/SOTI_2023_Survey/ToolsUsed_Dashboard
+Embed Code: <script type='module' src='https://prod-uk-a.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://prod-uk-a.online.tableau.com/t/inlays00crisps4ba6617603/views/SOTI_2023_Survey/ToolsUsed_Dashboard' width='1512' height='761' hide-tabs toolbar='bottom' ></tableau-viz>
+
 We have identified the most of people use 7 tools.
 
 From this, we've pinpointed the top three tools preferred by these professionals in the industries. 
