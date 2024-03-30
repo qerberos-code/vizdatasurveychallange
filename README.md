@@ -221,15 +221,15 @@ https://public.flourish.studio/visualisation/17312101/
 What's your role?
 https://public.flourish.studio/visualisation/17344050/
 What's your years of experience?
-https://public.flourish.studio/visualisation/17344050/
+https://public.flourish.studio/visualisation/17344050/ ( We need different chart to show years of experience)
 What are the top 3 tools you enjoy the most using or often use at work?
 https://public.flourish.studio/visualisation/17354145/
 
-With an extensive analysis of the datasets, the Querberos team discovered that most professionals predominantly use 7 key tools and generally hold certain roles within companies, boasting 7-10 years of experience.
+With an extensive analysis of the datasets, the Querberos team discovered that most professionals predominantly use 7 key tools and generally hold certain roles within companies, boasting 6-10 years of experience. (we are replacing it with the published one; please highlight what we tried to emphasie on with different color)
 
  https://prod-uk-a.online.tableau.com/t/inlays00crisps4ba6617603/views/SOTI_2023_Survey/ToolsUsed_Dashboard
  
-From this, we've pinpointed the top three tools preferred by these professionals in the industries. 
+From this, we've pinpointed the top three tools preferred by these professionals in the industries. (a chart?)
 
-Our tool isn't just a theoretical concept; it's a practical solution designed for real-world networking. In the fast-paced world of data visualization, where knowing the right tools and the right people makes all the difference, our approach is your shortcut to making meaningful connections swiftly and efficiently. Ready to revolutionize the way you network at data visualization events?
+Our visualization isn't just a theoretical concept; it's a practical solution designed for real-world networking. In the fast-paced world of data visualization, where knowing the right tools and the right people makes all the difference, our approach is your shortcut to making meaningful connections swiftly and efficiently. Ready to revolutionize the way you network at data visualization events?
 https://public.flourish.studio/visualisation/17363730/
