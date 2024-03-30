@@ -63,7 +63,7 @@ Section 4 (Charts and Tools):
 
 Scrollytelling
 --
-# I am very interested in this question: How often do you use each of the following technologies for data visualization?
+I am very interested in this question: How often do you use each of the following technologies for data visualization?
 
 I don't know any of those tools: Figma (it's wireframe/ mock UI), Flourish (a website with a lot of data (graph) templates), highcharts, leaflet (interactive with Javascript), looker, Observable, P5/Processing, Svelte (similar to react), Vega, Vue, WebGL  
 
@@ -71,26 +71,26 @@ I don't know any of those tools: Figma (it's wireframe/ mock UI), Flourish (a we
 
 Thoughts:  We could talk about the trend that evolved over time.
 
-# I am very interested in this question: Name up to three tools you "most enjoy" using for data visualization.
+I am very interested in this question: Name up to three tools you "most enjoy" using for data visualization.
 
 Thoughts:  Most enjoyable is different from the tools being used. 
 
 Section 5 (Challanges and Changes):
 
-# I am very interested in this question: How much does each of the following challenges impact your data visualization practice?
+I am very interested in this question: How much does each of the following challenges impact your data visualization practice?
 
-#  I am very interested in this question: What current or recent barriers have you faced in getting into data visualization professionally?
+I am very interested in this question: What current or recent barriers have you faced in getting into data visualization professionally?
 
-#  I am very interested in this question: What do you think people you work with just don’t get about the data visualization work that you do?
+I am very interested in this question: What do you think people you work with just don’t get about the data visualization work that you do?
 
 Section 6:
 
 We can consider section 5: the tool, and section 2 the salary 
 
-#Action item:
+Action item:
 
-#creating a mock up website ( the goal is to show the trends)  Sabari
-#looking into data in section 5: the tool, and section 2 the salary from 2020 to 2023  Angus and Truc
+creating a mock up website ( the goal is to show the trends)  Sabari
+looking into data in section 5: the tool, and section 2 the salary from 2020 to 2023  Angus and Truc
 
 Day 11: (break)
 
@@ -175,7 +175,6 @@ We have identified the most of people use 7 tools.
 From this, we've pinpointed the top three tools preferred by these professionals in the industries. 
 [image](https://github.com/qerberos-code/vizdatasurveychallange/assets/158055549/60611a7c-e407-4e63-84bb-24965d3ddb5c)
 
-v
 (Sabri has the image.)
 
 #By asking just three simple questions about tool usage and preferences we've designed, you can quickly identify who you should be talking to.
