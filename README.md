@@ -1,5 +1,5 @@
-# vizdatasurveychallange
-This repo is for viz data industry survey challenge 2023 in 2024
+# Data Visualization Survey Challange
+This repo is for data viz industry survey challenge 2023 in 2024
 The Challange page: https://www.datavisualizationsociety.org/challenges
 
 Explaination
