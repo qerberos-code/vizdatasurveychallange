@@ -207,7 +207,7 @@ Imagine you are interested in entering data visualization field, but don't know 
 
 That's where our innovative approach comes into play. We have made it very simple for you by analyzing the data which guide you to your ideal conversation partner at any data visualization meetup or social event.
 
-https://public.flourish.studio/visualisation/17355897/
+https://public.flourish.studio/visualisation/17363730/
 Note under the figure: the data has been transformed and simply for the general audience.
 
 By asking just four simple questions about tool usage and preferences we've designed, you can quickly identify who you should be talking to at a social event.
