@@ -189,3 +189,16 @@ Link: https://public.flourish.studio/visualisation/17354145/
 Embed code: <div class="flourish-embed flourish-slope" data-src="visualisation/17354145"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Our tool isn't just a theoretical concept; it's a practical solution designed for real-world networking. In the fast-paced world of data visualization, where knowing the right tools and the right people makes all the difference, our approach is your shortcut to making meaningful connections swiftly and efficiently. Ready to revolutionize the way you network at data visualization events?
+
+
+day 1 
+
+we replaced the first graph with the bubble chart by Truc.
+
+Bubble Chart: DataViz Roles - YOE - Tool: https://public.flourish.studio/visualisation/17355897/
+
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/17355897"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
+Flourish
+Bubble Chart: DataViz Roles - YOE - Tool
+A Flourish data visualization by Truc Phan
+
