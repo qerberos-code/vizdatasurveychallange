@@ -180,8 +180,11 @@ From this, we've pinpointed the top three tools preferred by these professionals
 By asking just three simple questions about tool usage and preferences we've designed, you can quickly identify who you should be talking to.
 
 What do you like to use? 
+
 What's your role? ( we need to show that employee is the target; sabri's graph)
+
 What's your years of experience? (7 - 10 years of experience; Truc's graph)
+
 What are the top 3 tools you most enjoy (?) using or often use at work?  (Show tableau; sankey)
 
 Link: https://public.flourish.studio/visualisation/17354145/
