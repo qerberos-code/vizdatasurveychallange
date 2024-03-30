@@ -214,18 +214,22 @@ https://public.flourish.studio/visualisation/17355897/
 Note under the figure: the data has been transformed and simply for the general audience.
 (If you would like to drill down into the frequency, here is the detailed bubble chart: https://public.flourish.studio/visualisation/17363730/)
 
-By asking just four simple questions about tool usage and preferences we've designed, you can quickly identify who you should be talking to at a social event.
+By tailoring just these four simple questions about tool usage and preferences we've designed into your networkign conversation, you could quickly identify who you should be talking to at a social event.
 
-What do you like to use? 
-What's your role? ( we need to show that employee is the target; sabri's graph)
-What's your years of experience? (7 - 10 years of experience; Truc's graph)
-What are the top 3 tools you most enjoy (?) using or often use at work?  (Show tableau; sankey)
-
+What data vizualization tools do you use? 
+https://public.flourish.studio/visualisation/17312101/
+What's your role?
+https://public.flourish.studio/visualisation/17344050/
+What's your years of experience?
+https://public.flourish.studio/visualisation/17344050/
+What are the top 3 tools you enjoy the most using or often use at work?
+https://public.flourish.studio/visualisation/17354145/
 
 With an extensive analysis of the datasets, the Querberos team discovered that most professionals predominantly use 7 key tools and generally hold certain roles within companies, boasting 7-10 years of experience.
 
+ https://prod-uk-a.online.tableau.com/t/inlays00crisps4ba6617603/views/SOTI_2023_Survey/ToolsUsed_Dashboard
+ 
 From this, we've pinpointed the top three tools preferred by these professionals in the industries. 
 
-
 Our tool isn't just a theoretical concept; it's a practical solution designed for real-world networking. In the fast-paced world of data visualization, where knowing the right tools and the right people makes all the difference, our approach is your shortcut to making meaningful connections swiftly and efficiently. Ready to revolutionize the way you network at data visualization events?
-
+https://public.flourish.studio/visualisation/17363730/
