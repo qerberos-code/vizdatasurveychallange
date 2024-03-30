@@ -209,6 +209,7 @@ That's where our innovative approach comes into play. We have made it very simpl
 
 https://public.flourish.studio/visualisation/17355897/
 Note under the figure: the data has been transformed and simply for the general audience.
+(If you would like to drill down into the frequency, here is the detailed bubble chart: https://public.flourish.studio/visualisation/17363730/)
 
 By asking just four simple questions about tool usage and preferences we've designed, you can quickly identify who you should be talking to at a social event.
 
