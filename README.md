@@ -223,11 +223,10 @@ https://public.flourish.studio/visualisation/17344050/
 What's your years of experience?
 https://public.flourish.studio/visualisation/17344050/ ( We need different chart to show years of experience)
 What are the top 3 tools you enjoy the most using or often use at work?
-https://public.flourish.studio/visualisation/17354145/
+https://public.flourish.studio/visualisation/17354145/ ( we just need to show top 3)
 
 With an extensive analysis of the datasets, the Querberos team discovered that most professionals predominantly use 7 key tools and generally hold certain roles within companies, boasting 6-10 years of experience. (we are replacing it with the published one; please highlight what we tried to emphasie on with different color)
 
- https://prod-uk-a.online.tableau.com/t/inlays00crisps4ba6617603/views/SOTI_2023_Survey/ToolsUsed_Dashboard
  
 From this, we've pinpointed the top three tools preferred by these professionals in the industries. (a chart?)
 
