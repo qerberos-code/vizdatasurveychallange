@@ -232,3 +232,18 @@ From this, we've pinpointed the top three tools preferred by these professionals
 
 Our visualization isn't just a theoretical concept; it's a practical solution designed for real-world networking. In the fast-paced world of data visualization, where knowing the right tools and the right people makes all the difference, our approach is your shortcut to making meaningful connections swiftly and efficiently. Ready to revolutionize the way you network at data visualization events?
 https://public.flourish.studio/visualisation/17363730/
+
+
+Day 0
+
+Final story:
+
+Imagine you are interested in entering data visualization field, but don't know where to start. After months of research, you finally decide to take a leap of faith to go to a data visulization social event. You are overwhelmed stepping into a room full of potential connections at the event, each may potentially lead to an opportunity. Each has their unique expertise and preferences in tools. However,the challenge is you only have 15 minutes for networking to find the right person to talk to,espcially someone who can open doors for you to opportunities. How can you quickly idenifity the right person? 
+
+That's where our innovative approach comes into play. We have made it very simple for you by analyzing the data which guide you to your ideal conversation partner at any data visualization meetup or social event.
+
+https://public.flourish.studio/visualisation/17344050/
+
+By tailoring just these four simple questions about tool usage and preferences we've designed into your networkign conversation, you could quickly identify who you should be talking to at a social event.
+
+
